@@ -1,0 +1,13 @@
+#title {
+    background-color: red;
+}
+
+.read,
+.unread {
+    color: white;
+    background-color: black;
+}
+
+.subsection.header {
+    color: red;
+}
